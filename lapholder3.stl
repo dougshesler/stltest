@@ -1,0 +1,713 @@
+solid MYSOLID created by IVREAD, original data in cube.iv
+
+# Nullpunkt
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000    0.00000       0.00000    
+      vertex   0.00000   -1.00000       0.00000    
+      vertex  -1.00000   -1.00000       0.00000    
+    endloop
+  endfacet
+
+# bodenplatte
+
+# verbreiterungVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000   2.00000       -2.00000    
+      vertex  30.00000   2.00000       -2.00000    
+      vertex  30.00000   2.00000       -4.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000     2.00000       -4.00000    
+      vertex   0.00000     2.00000       -4.00000    
+      vertex   0.00000     2.00000       -2.00000
+    endloop
+  endfacet
+
+# schraegleisteVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000    0.00000       -6.00000
+      vertex  30.00000    0.00000       -6.00000
+      vertex  30.00000    3.00000       -3.00000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000   3.00000       -3.00000
+      vertex   0.00000   3.00000       -3.00000
+      vertex   0.00000   0.00000       -6.00000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000     0.00000       -6.50000
+      vertex  30.00000     3.00000       -3.50000
+      vertex  30.00000     0.00000       -6.50000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex 30.00000    3.00000       -3.50000
+      vertex  0.00000    0.00000       -6.50000
+      vertex  0.00000    3.00000       -3.50000
+    endloop
+  endfacet
+
+# schraegleisteVorneOben
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000   3.00000       -3.00000
+      vertex   0.00000   3.00000       -3.5000
+      vertex   0.00000   3.00000       -3.0000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    3.00000       -3.50000
+      vertex   0.00000    3.00000       -3.5000
+      vertex  30.00000    3.00000       -3.000
+    endloop
+  endfacet
+
+# schraegleisteVorneLinkeSeite
+
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    3.00000      -3.50000
+      vertex  30.00000     3.00000      -3.000
+      vertex  30.00000    0.00000     -6.000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    0.00000      -6.50000
+      vertex  30.00000    3.000000     -3.500
+      vertex  30.00000    0.00000      -6.000
+    endloop
+  endfacet
+
+
+# schraegleisteVorneRechteSeite
+
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  0.00000    3.00000      -3.50000
+      vertex  0.00000    0.000000     -6.000
+      vertex  0.00000    3.00000      -3.000
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  0.00000    0.00000      -6.50000
+      vertex  0.00000    0.00000      -6.000
+      vertex  0.00000    3.000000     -3.500
+    endloop
+  endfacet
+
+# hintereSeiteBodenplatte
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    0.00000       14.00000    
+      vertex  30.00000    2.00000       14.00000    
+      vertex   0.00000    2.00000       14.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000   2.00000       14.00000    
+      vertex   0.00000   0.00000       14.00000    
+      vertex  30.00000   0.000000      14.00000    
+    endloop
+  endfacet
+
+
+# linkeSeiteBodenplatte
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    0.00000       -6.00000
+      vertex  30.00000    2.00000       14.00000    
+      vertex  30.00000    0.00000       14.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  30.00000    2.00000       14.00000
+      vertex  30.00000    0.00000       -6.00000    
+      vertex  30.00000    2.00000       -4.00000    
+    endloop
+  endfacet
+
+# rechteSeiteBodenplatte
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  0.00000    0.00000       -6.00000
+      vertex  0.00000    0.00000       14.00000    
+      vertex  0.00000    2.00000       14.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  0.00000    2.00000       14.00000
+      vertex  0.00000    2.00000       -4.00000    
+      vertex  0.00000    0.00000       -6.00000    
+    endloop
+  endfacet
+
+# DeckelBodenplatteRechts
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000     2.00000       -2.00000    
+      vertex  10.00000     2.00000       14.00000    
+      vertex  10.00000     2.00000       -2.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   0.00000    2.00000       -2.00000    
+      vertex   0.00000    2.00000       14.00000    
+      vertex  10.00000    2.00000      14.00000    
+    endloop
+  endfacet
+
+# DeckelBodenplatteLinks
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       -2.00000    
+      vertex  30.00000    2.00000       14.00000    
+      vertex  30.00000    2.00000       -2.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       -2.00000    
+      vertex  20.00000    2.00000       14.00000    
+      vertex  30.00000    2.00000       14.00000    
+    endloop
+  endfacet
+
+# DeckelBodenplatteVorneMitte
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       0.00000    
+      vertex  20.00000    2.00000      -2.00000    
+      vertex  10.00000    2.00000      -2.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       0.00000    
+      vertex  10.00000    2.00000      -2.00000
+      vertex  10.00000    2.00000       0.00000    
+    endloop
+  endfacet
+
+# DeckelBodenplatteHintenMitte
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       10.00000    
+      vertex  10.00000    2.00000       14.00000    
+      vertex  20.00000    2.00000       14.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    2.00000       10.00000    
+      vertex  10.00000    2.00000       10.00000    
+      vertex  10.00000    2.00000       14.00000    
+    endloop
+  endfacet
+
+# Bodenplattenaussparung
+
+# BodenplattenaussparungHinten
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       10.00000    
+      vertex  10.00000    2.00000       10.00000    
+      vertex  20.00000    2.00000       10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       10.00000    
+      vertex  10.00000    0.00000       10.00000    
+      vertex  10.00000    2.00000       10.00000    
+    endloop
+  endfacet
+
+# BodenplattenaussparungVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       0.00000    
+      vertex  20.00000    2.00000       0.00000    
+      vertex  10.00000    2.00000       0.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       0.00000    
+      vertex  10.00000    2.00000       0.00000    
+      vertex  10.00000    0.00000       0.00000    
+    endloop
+  endfacet
+
+# BodenplattenaussparungLinks
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       0.00000    
+      vertex  20.00000    0.00000      10.00000    
+      vertex  20.00000    2.00000      10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    0.00000       0.00000
+      vertex  20.00000    2.00000      10.00000    
+     vertex   20.00000    2.00000       0.00000     
+   endloop
+  endfacet
+
+# BodenplattenaussparungRechts
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    0.00000       0.00000    
+      vertex  10.00000    2.00000      10.00000    
+      vertex  10.00000    0.00000      10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    0.00000       0.00000
+     vertex   10.00000    2.00000       0.00000     
+      vertex  10.00000    2.00000      10.00000    
+   endloop
+  endfacet
+
+# HalterZumEinsetzen
+
+# Haltersockel
+
+# Haltersockelboden
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    6.00000        0.00000    
+      vertex  20.00000    6.00000       10.00000    
+      vertex  10.00000    6.00000       10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    6.00000       0.00000
+      vertex  20.00000    6.00000       0.00000    
+      vertex  20.00000    6.00000      10.00000    
+    endloop
+  endfacet
+
+# hinten
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    6.00000       10.00000    
+      vertex  20.00000    7.00000       10.00000    
+      vertex  10.00000    7.00000       10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    6.00000       10.00000    
+      vertex  10.00000    7.00000       10.00000    
+      vertex  10.00000    6.00000       10.00000    
+    endloop
+  endfacet
+
+# vorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    6.00000       0.00000    
+      vertex  10.00000    7.00000       0.00000    
+      vertex  20.00000    7.00000       0.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    6.00000       0.00000    
+      vertex  10.00000    6.00000       0.00000    
+      vertex  10.00000    7.00000       0.00000    
+    endloop
+  endfacet
+
+# links
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    6.00000       0.00000    
+      vertex  20.00000    7.00000      10.00000    
+      vertex  20.00000    6.00000      10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000       10.00000    
+      vertex  20.00000    6.00000        0.00000    
+      vertex  20.00000    7.00000        0.00000    
+
+    endloop
+  endfacet
+
+# rechts
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    6.00000       0.00000    
+      vertex  10.00000    6.00000      10.00000    
+      vertex  10.00000    7.00000      10.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    6.00000       0.00000
+      vertex  10.00000    7.00000      10.00000    
+     vertex   10.00000    7.00000       0.00000     
+   endloop
+  endfacet
+
+# endeHaltersockel
+
+
+# Halterdeckel
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    9.00000       0.00000    
+      vertex  10.00000    9.00000       9.00000    
+      vertex  20.00000    9.00000       9.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       0.00000    
+      vertex  10.00000    9.00000       0.00000    
+      vertex  20.00000    9.000000      9.00000    
+    endloop
+  endfacet
+
+# SchraegeVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       0.00000    
+      vertex  20.00000    7.00000      -2.00000    
+      vertex  10.00000    7.00000      -2.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       0.00000    
+      vertex  10.00000    7.00000      -2.00000    
+      vertex  10.00000    9.00000       0.00000    
+    endloop
+  endfacet
+
+# SchraegeVorneLinks
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       0.00000    
+      vertex  20.00000    7.00000       0.00000    
+      vertex  20.00000    7.00000      -2.00000    
+    endloop
+  endfacet
+
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    4.00000       0.00000    
+      vertex  20.00000    2.00000       0.00000    
+      vertex  20.00000    2.00000      -2.00000    
+    endloop
+  endfacet
+
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    4.00000       -2.00000    
+      vertex  20.00000    2.00000       -2.00000    
+      vertex  20.00000    2.00000      -4.00000    
+    endloop
+  endfacet
+
+# SchraegeVorneRechts
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    9.00000       0.00000    
+      vertex  10.00000    7.00000      -2.00000    
+      vertex  10.00000    7.00000       0.00000    
+    endloop
+  endfacet
+
+# BodenUnterSchraegeVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000       0.00000    
+      vertex  10.00000    7.00000      -2.00000    
+      vertex  20.00000    7.00000      -2.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000        0.00000    
+      vertex  10.00000    7.00000        0.00000    
+      vertex  10.00000    7.00000       -2.00000    
+    endloop
+  endfacet
+
+# SchraegeHinten
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000        9.00000    
+      vertex  10.00000    9.00000        9.00000    
+      vertex  10.00000    7.00000       11.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       9.00000    
+      vertex  10.00000    7.00000      11.00000    
+      vertex  20.00000    7.00000      11.00000    
+    endloop
+  endfacet
+
+# BodenUnterSchraegeHinten
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000       10.00000    
+      vertex  20.00000    7.00000       11.00000    
+      vertex  10.00000    7.00000       11.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    7.00000       11.00000    
+      vertex  10.00000    7.00000       10.00000    
+      vertex  20.00000    7.00000       10.00000    
+    endloop
+  endfacet
+
+# SchraegeHintenLinks
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    9.00000       9.00000    
+      vertex  20.00000    7.00000      11.00000    
+      vertex  20.00000    7.00000       9.00000    
+    endloop
+  endfacet
+
+# SchraegeHintenRechts
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    9.00000       9.00000    
+      vertex  10.00000    7.00000       9.00000    
+      vertex  10.00000    7.00000      11.00000    
+    endloop
+  endfacet
+
+# linkeSeite
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000       0.00000    
+      vertex  20.00000    7.00000       9.00000    
+      vertex  20.00000    9.00000       9.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  20.00000    7.00000       0.00000
+      vertex  20.00000    9.00000       9.00000    
+     vertex   20.00000    9.00000       0.00000     
+   endloop
+  endfacet
+
+# rechteSeite
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    7.00000       0.00000    
+      vertex  10.00000    7.00000       9.00000    
+      vertex  10.00000    9.00000       9.00000    
+    endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    7.00000       0.00000
+      vertex  10.00000    9.00000       9.00000    
+      vertex  10.00000    9.00000       0.00000     
+   endloop
+  endfacet
+
+# HalterLinkeSchraege
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000       0.00000
+      vertex  20.00000    9.00000       9.00000     
+      vertex  22.00000    7.00000       9.00000    
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000       0.00000
+      vertex  20.00000    9.00000       0.00000    
+      vertex  20.00000    9.00000       9.00000     
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000       0.00000
+      vertex  20.00000    7.00000       0.00000     
+      vertex  20.00000    9.00000       0.00000    
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000     9.00000
+      vertex  20.00000    9.00000     9.00000    
+      vertex  20.00000    7.00000     9.00000     
+   endloop
+  endfacet
+
+# HalterBodenUnterLinkeSchraege
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000     0.00000
+      vertex  20.00000    7.00000     9.00000     
+      vertex  20.00000    7.00000     0.00000    
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  22.00000    7.00000    0.00000
+      vertex  22.00000    7.00000    9.00000     
+      vertex  20.00000    7.00000    9.00000    
+   endloop
+  endfacet
+
+# HalterRechteSchraege
+
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   8.00000   7.00000     0.00000
+      vertex   8.00000   7.00000     9.00000    
+      vertex  10.00000   9.00000     9.00000     
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   8.00000    7.00000     0.00000
+      vertex  10.00000    9.00000     9.00000     
+      vertex  10.00000    9.00000     0.00000    
+   endloop
+  endfacet
+
+
+# DreieckRechteSeiteVorne
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000   7.00000     0.00000
+      vertex   8.00000   7.00000     0.00000     
+      vertex  10.00000   9.00000     0.00000    
+   endloop
+  endfacet
+
+# DreieckRechteSeiteHinten
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex  10.00000    7.00000     9.00000
+      vertex  10.00000    9.00000     9.00000    
+      vertex   8.00000    7.00000     9.00000     
+   endloop
+  endfacet
+
+# HalterRechterSchraegeBoden
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   8.00000   7.00000     0.00000
+      vertex  10.00000   7.00000     0.00000    
+      vertex  10.00000   7.00000     9.00000     
+   endloop
+  endfacet
+
+  facet normal   1.000000E+00  0.000000E+00   0.00000    
+    outer loop
+      vertex   8.00000    7.00000     0.00000
+      vertex  10.00000    7.00000     9.00000     
+      vertex   8.00000    7.00000     9.00000    
+   endloop
+  endfacet
+
+endsolid MYSOLID
